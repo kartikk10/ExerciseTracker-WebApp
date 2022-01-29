@@ -61,5 +61,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 [`npm run build` fails to minify] [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Further Features to be added
-[Interactive UI] Using React.js
-[Connecting BackEnd & FrontEnd] Total integration
+[Interactive UI] - <b> Using React.js </b>
+
+[Integrating BackEnd & FrontEnd] - <b> Final Application </b>
